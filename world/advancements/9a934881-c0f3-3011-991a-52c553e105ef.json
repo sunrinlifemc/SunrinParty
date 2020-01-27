@@ -119,6 +119,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2020-01-28 00:22:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-01-28 00:13:14 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2020-01-27 17:01:18 +0900"
@@ -281,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2020-01-27 23:33:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2020-01-27 19:01:17 +0900"
@@ -302,6 +320,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2020-01-27 19:01:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-01-28 00:59:24 +0900"
     },
     "done": true
   },
@@ -338,6 +362,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-01-27 17:17:17 +0900",
+      "beef": "2020-01-28 01:32:11 +0900",
+      "apple": "2020-01-28 00:04:15 +0900",
       "mutton": "2020-01-27 17:01:20 +0900",
       "bread": "2020-01-27 18:14:16 +0900"
     },
@@ -406,6 +432,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-01-27 18:10:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2020-01-28 00:13:14 +0900"
     },
     "done": true
   },
@@ -481,9 +513,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2020-01-28 00:22:13 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2020-01-27 18:10:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2020-01-28 00:22:13 +0900"
     },
     "done": true
   },
@@ -547,6 +591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-01-28 00:13:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2020-01-27 18:00:34 +0900"
@@ -570,6 +620,12 @@
       "has_bed": "2020-01-27 17:09:01 +0900"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2020-01-28 01:14:04 +0900"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -757,6 +813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-01-27 23:33:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-01-27 19:33:04 +0900"
@@ -787,6 +849,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2020-01-28 00:13:14 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-01-27 17:09:01 +0900"
@@ -808,6 +876,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2020-01-27 18:10:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2020-01-28 00:22:13 +0900"
     },
     "done": true
   },
@@ -856,8 +930,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2020-01-27 19:45:00 +0900",
+      "minecraft:zombie_pigman": "2020-01-28 00:43:49 +0900",
       "minecraft:spider": "2020-01-27 18:15:43 +0900",
       "minecraft:phantom": "2020-01-27 20:10:02 +0900",
+      "minecraft:cave_spider": "2020-01-27 23:16:33 +0900",
       "minecraft:zombie": "2020-01-27 20:00:49 +0900"
     },
     "done": false
@@ -910,6 +986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2020-01-28 00:22:13 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-01-27 17:01:18 +0900"
@@ -937,6 +1019,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2020-01-27 17:01:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2020-01-28 00:13:14 +0900"
     },
     "done": true
   },
@@ -1003,6 +1091,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-01-27 18:00:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2020-01-28 00:13:14 +0900"
     },
     "done": true
   },
@@ -1150,6 +1244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2020-01-28 00:13:14 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2020-01-27 17:01:18 +0900"
@@ -1159,6 +1259,12 @@
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2020-01-27 19:01:17 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2020-01-27 23:50:31 +0900"
     },
     "done": true
   },
@@ -1300,6 +1406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2020-01-27 23:50:31 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2020-01-27 17:08:44 +0900"
@@ -1390,6 +1502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-01-28 00:13:14 +0900"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2020-01-27 17:08:53 +0900"
@@ -1456,6 +1574,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-01-27 23:33:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-01-27 17:09:01 +0900"
@@ -1477,6 +1601,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2020-01-27 18:25:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2020-01-28 00:22:13 +0900"
     },
     "done": true
   },
@@ -1546,6 +1676,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2020-01-28 00:22:13 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2020-01-27 19:04:14 +0900",
@@ -1559,6 +1695,7 @@
       "minecraft:bamboo_jungle": "2020-01-27 19:15:41 +0900",
       "minecraft:badlands": "2020-01-27 17:31:17 +0900",
       "minecraft:savanna_plateau": "2020-01-27 17:00:45 +0900",
+      "minecraft:beach": "2020-01-28 00:24:51 +0900",
       "minecraft:river": "2020-01-27 17:26:10 +0900",
       "minecraft:wooded_mountains": "2020-01-27 19:07:16 +0900",
       "minecraft:bamboo_jungle_hills": "2020-01-27 19:16:05 +0900",
@@ -1605,6 +1742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2020-01-28 01:17:51 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2020-01-27 17:10:48 +0900"
@@ -1620,6 +1763,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2020-01-27 20:21:40 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2020-01-28 00:22:13 +0900"
     },
     "done": true
   },
@@ -1641,6 +1790,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2020-01-28 00:13:14 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-01-27 18:10:05 +0900"
@@ -1656,6 +1811,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2020-01-27 17:26:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2020-01-27 23:20:40 +0900"
     },
     "done": true
   },
@@ -1695,6 +1856,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2020-01-28 01:14:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-01-28 00:13:14 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2020-01-27 18:30:52 +0900"
@@ -1728,6 +1901,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2020-01-27 19:12:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2020-01-28 00:22:13 +0900"
     },
     "done": true
   },
