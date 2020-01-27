@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2020-01-28 02:20:11 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2020-01-27 23:30:39 +0900"
@@ -616,6 +622,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2020-01-28 02:10:28 +0900",
       "minecraft:bee": "2020-01-27 23:23:13 +0900"
     },
     "done": false
@@ -1874,6 +1881,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2020-01-28 02:10:18 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2020-01-27 21:29:09 +0900"
@@ -1961,6 +1974,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2020-01-27 21:30:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2020-01-28 02:20:11 +0900"
     },
     "done": true
   },

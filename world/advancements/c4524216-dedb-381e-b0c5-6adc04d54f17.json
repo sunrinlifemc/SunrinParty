@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-01-28 02:21:47 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-01-27 21:40:05 +0900"
@@ -294,7 +300,8 @@
       "cooked_beef": "2020-01-27 22:59:16 +0900",
       "apple": "2020-01-27 23:30:56 +0900",
       "bread": "2020-01-28 01:24:49 +0900",
-      "rotten_flesh": "2020-01-27 21:33:33 +0900"
+      "rotten_flesh": "2020-01-27 21:33:33 +0900",
+      "cooked_chicken": "2020-01-28 02:09:05 +0900"
     },
     "done": false
   },
@@ -445,6 +452,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2020-01-27 23:56:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-01-28 02:21:47 +0900"
     },
     "done": true
   },
@@ -1114,6 +1127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-01-28 02:21:47 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2020-01-27 23:18:48 +0900"
@@ -1365,6 +1384,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-01-27 23:44:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2020-01-28 02:21:27 +0900"
     },
     "done": true
   },
