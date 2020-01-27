@@ -1,0 +1,16 @@
+cache
+logs
+plugins/dynmap/web/tiles
+plugins/DiscordSRV/config.yml
+banned-ips.json
+banned-players.json
+ops.json
+permissions.yml
+server.properties
+help.yml
+usercache.json
+wepif.yml
+whitelist.json
+/*.jar
+DiscordConsole.log
+eula.txt

@@ -1,0 +1,16 @@
+on chat:
+   if {perfix.%player%} is set:
+      set chat format to "%colored {perfix.%player%}% &f<%player%> %message%"
+   else:
+      set chat format to "&f<%player%> %message%"
+
+on join:
+   if {perfix.%player%} is set:
+      set player's tablist name to "&f%player% %colored {perfix.%player%}%"
+   
+command /setprefix <player> <text>:
+   permission: prefix.set
+   usage: /setprefix
+   trigger:
+      set arg 1's tablist name to "%arg 1% %colored arg 2%"
+      set {perfix.%arg 1%} to arg 2
