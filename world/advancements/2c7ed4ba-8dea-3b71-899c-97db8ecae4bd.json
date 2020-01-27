@@ -516,6 +516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-01-28 02:04:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2020-01-27 17:11:06 +0900"
@@ -871,6 +877,7 @@
     "criteria": {
       "minecraft:skeleton": "2020-01-28 01:49:37 +0900",
       "minecraft:spider": "2020-01-27 23:34:03 +0900",
+      "minecraft:creeper": "2020-01-28 02:03:59 +0900",
       "minecraft:zombie": "2020-01-27 17:50:24 +0900"
     },
     "done": false
