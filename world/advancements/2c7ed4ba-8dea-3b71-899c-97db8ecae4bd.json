@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-01-28 20:56:51 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2020-01-27 17:08:31 +0900"
@@ -1773,7 +1779,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2020-01-27 17:09:45 +0900",
+      "minecraft:desert_hills": "2020-01-28 23:24:16 +0900",
       "minecraft:desert": "2020-01-27 22:59:57 +0900",
+      "minecraft:badlands": "2020-01-28 23:35:07 +0900",
       "minecraft:savanna_plateau": "2020-01-27 17:08:16 +0900",
       "minecraft:dark_forest": "2020-01-27 17:27:48 +0900",
       "minecraft:river": "2020-01-27 17:04:39 +0900",

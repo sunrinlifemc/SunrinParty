@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2020-01-28 21:23:33 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2020-01-27 21:47:13 +0900"
@@ -257,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2020-01-28 22:29:30 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-01-27 21:47:13 +0900"
@@ -278,6 +290,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-01-27 21:47:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2020-01-28 22:53:09 +0900"
     },
     "done": true
   },
@@ -416,6 +434,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-01-27 21:43:41 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2020-01-28 23:43:27 +0900"
     },
     "done": true
   },
@@ -561,6 +585,7 @@
       "minecraft:magma_cube": "2020-01-28 01:14:56 +0900",
       "minecraft:spider": "2020-01-27 22:02:00 +0900",
       "minecraft:creeper": "2020-01-27 22:49:37 +0900",
+      "minecraft:slime": "2020-01-28 22:27:07 +0900",
       "minecraft:wither_skeleton": "2020-01-28 04:32:59 +0900",
       "minecraft:husk": "2020-01-28 05:25:00 +0900",
       "minecraft:enderman": "2020-01-27 23:19:10 +0900",
@@ -650,6 +675,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2020-01-27 23:17:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2020-01-28 22:53:09 +0900"
     },
     "done": true
   },
@@ -1157,6 +1188,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-01-28 22:27:14 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-01-27 21:28:37 +0900"
@@ -1323,6 +1360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2020-01-28 22:53:09 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2020-01-27 21:59:02 +0900"
@@ -1356,6 +1399,12 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2020-01-28 05:13:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2020-01-28 23:43:27 +0900"
     },
     "done": true
   },
@@ -1509,6 +1558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2020-01-28 23:43:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-01-28 07:00:38 +0900"
@@ -1572,6 +1627,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2020-01-27 21:47:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2020-01-28 23:43:27 +0900"
     },
     "done": true
   },
@@ -1706,7 +1767,10 @@
       "cooked_porkchop": "2020-01-27 21:41:37 +0900",
       "cooked_mutton": "2020-01-28 01:21:18 +0900",
       "cooked_beef": "2020-01-27 21:32:18 +0900",
+      "chorus_fruit": "2020-01-28 21:23:42 +0900",
+      "apple": "2020-01-28 23:00:43 +0900",
       "cooked_cod": "2020-01-28 05:13:11 +0900",
+      "bread": "2020-01-28 22:00:51 +0900",
       "rotten_flesh": "2020-01-27 21:30:30 +0900",
       "cooked_chicken": "2020-01-27 21:53:33 +0900",
       "cooked_salmon": "2020-01-27 22:27:59 +0900"
@@ -2121,6 +2185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2020-01-28 22:29:30 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-01-28 00:25:05 +0900"
@@ -2190,6 +2260,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2020-01-27 23:04:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-01-28 22:27:14 +0900"
     },
     "done": true
   },
@@ -2553,6 +2629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-01-28 22:27:14 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-01-27 21:42:35 +0900"
@@ -2610,6 +2692,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-01-27 21:36:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2020-01-28 21:22:20 +0900"
     },
     "done": true
   },
@@ -2688,6 +2776,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2020-01-27 23:59:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2020-01-28 22:29:30 +0900"
     },
     "done": true
   },
@@ -2850,6 +2944,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2020-01-28 00:24:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2020-01-28 23:43:27 +0900"
     },
     "done": true
   },
