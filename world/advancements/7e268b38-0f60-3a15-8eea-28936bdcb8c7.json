@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2020-01-28 19:22:05 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2020-01-27 17:17:56 +0900"
@@ -44,6 +50,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2020-01-27 17:24:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2020-01-28 19:22:05 +0900"
     },
     "done": true
   },
@@ -251,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2020-01-28 14:59:42 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-01-27 17:24:07 +0900"
@@ -311,9 +329,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2020-01-28 14:59:42 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2020-01-28 00:36:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-01-28 15:10:37 +0900"
     },
     "done": true
   },
@@ -350,6 +380,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-01-27 17:40:40 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2020-01-28 19:22:05 +0900"
     },
     "done": true
   },
@@ -419,6 +455,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2020-01-28 00:54:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2020-01-28 15:46:38 +0900"
     },
     "done": true
   },
@@ -625,6 +667,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2020-01-28 19:22:05 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2020-01-27 21:39:01 +0900"
@@ -793,6 +841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2020-01-28 15:46:38 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2020-01-28 00:03:36 +0900"
@@ -919,6 +973,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-01-28 14:59:42 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2020-01-28 12:33:56 +0900"
@@ -1035,17 +1095,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-01-28 15:10:00 +0900",
       "minecraft:forest": "2020-01-27 17:58:52 +0900",
       "minecraft:mountains": "2020-01-28 14:57:24 +0900",
       "minecraft:desert_hills": "2020-01-27 17:13:56 +0900",
+      "minecraft:deep_cold_ocean": "2020-01-28 15:10:05 +0900",
       "minecraft:desert": "2020-01-27 17:57:58 +0900",
       "minecraft:badlands": "2020-01-27 20:07:54 +0900",
       "minecraft:savanna_plateau": "2020-01-27 17:15:28 +0900",
+      "minecraft:beach": "2020-01-28 15:08:21 +0900",
       "minecraft:dark_forest": "2020-01-27 18:15:46 +0900",
       "minecraft:river": "2020-01-27 17:14:02 +0900",
       "minecraft:wooded_mountains": "2020-01-28 14:57:10 +0900",
       "minecraft:wooded_hills": "2020-01-27 17:31:50 +0900",
       "minecraft:wooded_badlands_plateau": "2020-01-27 20:14:17 +0900",
+      "minecraft:swamp": "2020-01-28 15:06:24 +0900",
       "minecraft:savanna": "2020-01-27 17:13:57 +0900",
       "minecraft:plains": "2020-01-27 17:30:06 +0900"
     },
@@ -1171,6 +1235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2020-01-28 19:21:13 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-01-27 17:38:28 +0900"
@@ -1186,6 +1256,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-01-28 00:11:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2020-01-28 19:22:05 +0900"
     },
     "done": true
   },
@@ -1207,9 +1283,22 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2020-01-28 14:59:42 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2020-01-28 01:23:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2020-01-28 17:35:13 +0900",
+      "has_golden_boots": "2020-01-28 17:35:13 +0900"
     },
     "done": true
   },
@@ -1342,6 +1431,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-01-27 21:54:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-01-28 14:59:42 +0900"
     },
     "done": true
   },
@@ -1533,6 +1628,7 @@
       "beef": "2020-01-27 18:11:04 +0900",
       "porkchop": "2020-01-27 17:20:55 +0900",
       "apple": "2020-01-27 19:49:23 +0900",
+      "cooked_cod": "2020-01-28 18:21:57 +0900",
       "mutton": "2020-01-27 17:20:06 +0900",
       "bread": "2020-01-27 22:23:15 +0900",
       "rotten_flesh": "2020-01-27 21:37:52 +0900",
@@ -1575,6 +1671,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2020-01-28 12:33:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-01-28 14:59:42 +0900"
     },
     "done": true
   },
@@ -1692,9 +1794,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2020-01-28 14:59:42 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-01-27 18:29:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2020-01-28 14:59:42 +0900"
     },
     "done": true
   },
@@ -1950,6 +2064,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-01-28 18:20:39 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-01-27 17:33:41 +0900"
@@ -2052,6 +2172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-01-28 14:59:42 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-01-27 18:29:38 +0900"
@@ -2127,6 +2253,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-01-27 17:19:41 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2020-01-28 19:21:13 +0900"
     },
     "done": true
   },
@@ -2214,6 +2346,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2020-01-28 17:35:13 +0900",
+      "has_golden_boots": "2020-01-28 17:35:13 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2020-01-27 17:17:56 +0900"
@@ -2244,6 +2383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2020-01-28 15:21:34 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-01-27 17:33:41 +0900"
@@ -2268,6 +2413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-01-28 14:59:42 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-01-27 17:32:05 +0900"
@@ -2277,6 +2428,18 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-01-28 00:11:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2020-01-28 14:59:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2020-01-28 19:22:05 +0900"
     },
     "done": true
   },
@@ -2301,6 +2464,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-01-27 17:42:08 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-01-28 14:59:42 +0900"
     },
     "done": true
   },
