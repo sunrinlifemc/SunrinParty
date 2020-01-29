@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2020-01-29 00:21:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-01-27 23:18:55 +0900"
@@ -206,6 +212,12 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2020-01-28 16:35:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2020-01-29 18:24:08 +0900"
     },
     "done": true
   },
@@ -329,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2020-01-29 03:39:18 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2020-01-28 16:08:33 +0900"
@@ -424,9 +442,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2020-01-29 09:41:48 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-01-27 19:04:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2020-01-29 14:40:36 +0900"
     },
     "done": true
   },
@@ -574,6 +604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2020-01-29 02:37:15 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_the_recipe": "2020-01-28 17:09:55 +0900"
@@ -633,6 +669,7 @@
       "minecraft:cat": "2020-01-27 23:57:23 +0900",
       "minecraft:sheep": "2020-01-28 13:07:23 +0900",
       "minecraft:cow": "2020-01-28 02:13:25 +0900",
+      "minecraft:chicken": "2020-01-29 00:01:57 +0900",
       "minecraft:wolf": "2020-01-28 14:21:43 +0900"
     },
     "done": false
@@ -778,6 +815,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-01-29 00:55:44 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-01-27 17:37:27 +0900"
@@ -829,6 +872,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-01-27 19:14:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-01-29 09:58:53 +0900"
     },
     "done": true
   },
@@ -998,6 +1047,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-01-29 10:03:19 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2020-01-27 19:10:02 +0900"
@@ -1034,6 +1089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2020-01-29 03:39:18 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-01-27 17:38:44 +0900"
@@ -1043,6 +1104,12 @@
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-01-27 17:43:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2020-01-29 02:37:15 +0900"
     },
     "done": true
   },
@@ -1076,9 +1143,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-01-29 09:32:11 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-01-27 17:50:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2020-01-29 00:21:44 +0900"
     },
     "done": true
   },
@@ -1127,6 +1206,18 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-01-27 17:41:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2020-01-29 09:41:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2020-01-29 01:14:13 +0900"
     },
     "done": true
   },
@@ -1346,6 +1437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2020-01-29 02:37:15 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2020-01-27 17:51:05 +0900"
@@ -1436,6 +1533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2020-01-29 12:40:32 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-01-27 17:50:14 +0900"
@@ -1493,6 +1596,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-01-28 01:50:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-01-29 09:32:11 +0900"
     },
     "done": true
   },
@@ -1658,6 +1767,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-01-29 09:58:53 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-01-27 17:43:19 +0900"
@@ -1700,6 +1815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-01-29 18:45:18 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2020-01-27 19:23:01 +0900"
@@ -1736,6 +1857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-01-29 09:32:11 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-01-27 17:37:27 +0900"
@@ -1762,11 +1889,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-01-29 19:50:07 +0900",
       "minecraft:forest": "2020-01-27 17:35:17 +0900",
       "minecraft:desert_hills": "2020-01-27 17:31:47 +0900",
       "minecraft:desert": "2020-01-27 23:21:09 +0900",
       "minecraft:badlands": "2020-01-27 23:48:51 +0900",
       "minecraft:savanna_plateau": "2020-01-27 17:32:46 +0900",
+      "minecraft:beach": "2020-01-29 19:49:38 +0900",
       "minecraft:river": "2020-01-27 17:46:09 +0900",
       "minecraft:wooded_hills": "2020-01-27 23:02:05 +0900",
       "minecraft:savanna": "2020-01-27 17:31:48 +0900",
@@ -1876,6 +2005,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-01-29 00:08:44 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2020-01-27 17:46:08 +0900"
@@ -1891,6 +2026,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2020-01-28 15:59:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2020-01-29 18:27:17 +0900"
     },
     "done": true
   },
@@ -1990,6 +2131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2020-01-29 09:41:48 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2020-01-27 19:04:38 +0900"
@@ -2084,6 +2231,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-01-27 17:43:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2020-01-29 02:37:15 +0900"
     },
     "done": true
   },

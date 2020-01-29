@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2020-01-29 02:40:20 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2020-01-27 17:17:56 +0900"
@@ -254,6 +260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-29 12:24:49 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2020-01-28 14:27:17 +0900"
@@ -290,6 +302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-29 12:24:49 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-01-27 17:24:07 +0900"
@@ -320,6 +338,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-29 12:24:49 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-01-27 18:29:38 +0900"
@@ -329,6 +353,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-01-27 18:29:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-29 12:24:49 +0900"
     },
     "done": true
   },
@@ -428,6 +458,12 @@
       "iron_chestplate": "2020-01-27 19:33:27 +0900",
       "iron_leggings": "2020-01-27 19:33:27 +0900",
       "iron_helmet": "2020-01-27 19:33:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-01-29 17:55:00 +0900"
     },
     "done": true
   },
@@ -580,8 +616,15 @@
       "minecraft:pillager": "2020-01-28 11:10:11 +0900",
       "minecraft:skeleton": "2020-01-27 21:29:21 +0900",
       "minecraft:zombie_pigman": "2020-01-27 19:34:03 +0900",
+      "minecraft:ravager": "2020-01-29 01:44:31 +0900",
+      "minecraft:vindicator": "2020-01-29 01:40:05 +0900",
       "minecraft:spider": "2020-01-27 21:27:40 +0900",
       "minecraft:creeper": "2020-01-27 22:52:45 +0900",
+      "minecraft:evoker": "2020-01-29 02:03:52 +0900",
+      "minecraft:phantom": "2020-01-29 00:04:40 +0900",
+      "minecraft:witch": "2020-01-29 01:45:11 +0900",
+      "minecraft:enderman": "2020-01-29 17:56:23 +0900",
+      "minecraft:silverfish": "2020-01-29 17:51:33 +0900",
       "minecraft:zombie": "2020-01-27 18:57:34 +0900"
     },
     "done": false
@@ -682,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-01-29 01:36:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-01-27 17:33:41 +0900"
@@ -691,6 +740,12 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2020-01-28 19:22:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-29 12:24:49 +0900"
     },
     "done": true
   },
@@ -715,6 +770,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-01-28 00:11:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2020-01-29 17:51:30 +0900"
     },
     "done": true
   },
@@ -775,6 +836,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2020-01-27 21:39:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2020-01-29 17:55:16 +0900"
     },
     "done": true
   },
@@ -1024,6 +1091,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2020-01-29 02:24:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2020-01-27 17:19:41 +0900"
@@ -1090,6 +1163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-29 12:24:49 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2020-01-27 18:54:59 +0900"
@@ -1120,11 +1199,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-29 12:24:49 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2020-01-28 15:10:00 +0900",
       "minecraft:forest": "2020-01-27 17:58:52 +0900",
       "minecraft:mountains": "2020-01-28 14:57:24 +0900",
+      "minecraft:badlands_plateau": "2020-01-29 19:39:22 +0900",
       "minecraft:desert_hills": "2020-01-27 17:13:56 +0900",
       "minecraft:deep_cold_ocean": "2020-01-28 15:10:05 +0900",
       "minecraft:desert": "2020-01-27 17:57:58 +0900",
@@ -1175,6 +1261,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2020-01-27 17:17:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-01-29 17:55:00 +0900"
     },
     "done": true
   },
@@ -1238,6 +1330,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2020-01-29 02:40:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2020-01-29 23:50:51 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2020-01-28 00:03:36 +0900"
@@ -1247,6 +1351,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-01-28 00:11:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2020-01-29 18:10:27 +0900"
     },
     "done": true
   },
@@ -1389,6 +1499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-29 12:24:49 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-01-27 17:17:56 +0900"
@@ -1407,9 +1523,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-29 12:24:49 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2020-01-27 17:19:41 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-29 12:24:49 +0900"
     },
     "done": true
   },
@@ -1446,6 +1574,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-01-27 17:40:40 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2020-01-29 02:40:20 +0900"
     },
     "done": true
   },
@@ -1653,6 +1787,7 @@
       "cooked_mutton": "2020-01-27 19:06:39 +0900",
       "cooked_beef": "2020-01-28 12:25:16 +0900",
       "beef": "2020-01-27 18:11:04 +0900",
+      "baked_potato": "2020-01-29 18:08:56 +0900",
       "porkchop": "2020-01-27 17:20:55 +0900",
       "apple": "2020-01-27 19:49:23 +0900",
       "cooked_cod": "2020-01-28 18:21:57 +0900",
@@ -1664,9 +1799,16 @@
       "salmon": "2020-01-27 17:19:31 +0900",
       "cooked_chicken": "2020-01-27 19:35:00 +0900",
       "rabbit_stew": "2020-01-28 20:30:55 +0900",
+      "cooked_salmon": "2020-01-29 03:00:26 +0900",
       "carrot": "2020-01-28 01:27:52 +0900"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-29 12:24:49 +0900"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -1716,6 +1858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-01-29 17:55:00 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2020-01-27 17:33:41 +0900"
@@ -1749,6 +1897,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-01-27 18:29:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-29 12:24:49 +0900"
     },
     "done": true
   },
@@ -1929,6 +2083,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2020-01-27 17:24:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-01-29 17:55:00 +0900"
     },
     "done": true
   },
@@ -2250,6 +2410,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-01-29 17:55:00 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2020-01-28 00:22:50 +0900"
@@ -2325,6 +2491,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-01-28 00:11:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-29 12:24:49 +0900"
     },
     "done": true
   },
@@ -2425,15 +2597,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-29 12:24:49 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-01-27 17:33:41 +0900"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-29 12:24:49 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2020-01-27 17:33:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2020-01-29 02:40:20 +0900"
     },
     "done": true
   },
@@ -2476,6 +2666,12 @@
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2020-01-28 19:22:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-01-29 12:24:49 +0900"
     },
     "done": true
   },
@@ -2581,6 +2777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-01-29 17:55:00 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2020-01-27 18:11:01 +0900"
@@ -2662,6 +2864,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-01-27 17:20:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2020-01-29 17:55:16 +0900"
     },
     "done": true
   },
